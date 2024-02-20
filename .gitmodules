@@ -1,0 +1,3 @@
+[submodule "mocksite/themes/hugo-bootstrap-theme"]
+	path = mocksite/themes/hugo-bootstrap-theme
+	url = https://github.com/filipecarneiro/hugo-bootstrap-theme
