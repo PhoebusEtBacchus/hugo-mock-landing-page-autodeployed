@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>William Silversmith on iSight Pro</title>
-    <link>https://phoebusetbacchus.github.io/hugo-mock-landing-page/authors/william-silversmith/</link>
+    <link>https://phoebusetbacchus.github.io/hugo-mock-landing-page-autodeployed/authors/william-silversmith/</link>
     <description>Recent content in William Silversmith on iSight Pro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
-    <lastBuildDate>Thu, 22 Feb 2024 17:07:02 -0500</lastBuildDate>
-    <atom:link href="https://phoebusetbacchus.github.io/hugo-mock-landing-page/authors/william-silversmith/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Mar 2024 19:33:22 -0400</lastBuildDate>
+    <atom:link href="https://phoebusetbacchus.github.io/hugo-mock-landing-page-autodeployed/authors/william-silversmith/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Great for music, haven&#39;t experimented with other features</title>
-      <link>https://phoebusetbacchus.github.io/hugo-mock-landing-page/post/review-5/</link>
+      <link>https://phoebusetbacchus.github.io/hugo-mock-landing-page-autodeployed/post/review-5/</link>
       <pubDate>Sat, 24 Sep 2022 00:00:00 +0100</pubDate>
-      <guid>https://phoebusetbacchus.github.io/hugo-mock-landing-page/post/review-5/</guid>
+      <guid>https://phoebusetbacchus.github.io/hugo-mock-landing-page-autodeployed/post/review-5/</guid>
       <description>As an audiophile, I was taken aback by the audio quality output by the connected ear buds. Noise cancelling when you need them to be, but can be invisible and even amplify surrounding sound when necessary!</description>
     </item>
   </channel>
