@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gonzalo Fernando de Fernandez on iSight Pro</title>
-    <link>https://phoebusetbacchus.github.io/hugo-bootstrap-theme/authors/gonzalo-fernando-de-fernandez/</link>
+    <link>https://phoebusetbacchus.github.io/hugo-mock-landing-page/authors/gonzalo-fernando-de-fernandez/</link>
     <description>Recent content in Gonzalo Fernando de Fernandez on iSight Pro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
     <lastBuildDate>Thu, 22 Feb 2024 17:05:54 -0500</lastBuildDate>
-    <atom:link href="https://phoebusetbacchus.github.io/hugo-bootstrap-theme/authors/gonzalo-fernando-de-fernandez/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://phoebusetbacchus.github.io/hugo-mock-landing-page/authors/gonzalo-fernando-de-fernandez/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>i like walking</title>
-      <link>https://phoebusetbacchus.github.io/hugo-bootstrap-theme/post/review-2/</link>
+      <link>https://phoebusetbacchus.github.io/hugo-mock-landing-page/post/review-2/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0100</pubDate>
-      <guid>https://phoebusetbacchus.github.io/hugo-bootstrap-theme/post/review-2/</guid>
+      <guid>https://phoebusetbacchus.github.io/hugo-mock-landing-page/post/review-2/</guid>
       <description>i often commute by walking, and appreciate that your product allows me to view the real world&amp;ndash;not through a video recording&amp;ndash;while still alerting me to imminent messages or simply allowing me to change the song I am listening to without ever looking at a screen</description>
     </item>
   </channel>
